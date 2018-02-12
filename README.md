@@ -7,4 +7,4 @@ Ahmad Jawabreh
 
 
 
-Usage: ./iptables_professional
+Usage: ./iptables_professional.sh
